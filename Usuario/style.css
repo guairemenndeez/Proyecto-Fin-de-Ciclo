@@ -1,0 +1,9 @@
+#banner{
+    background-image: url("../fotos/banner.png");
+    background-repeat:no-repeat;
+    opacity: 0.9;
+}
+#bannerContacto{
+    background-image: url("../fotos/banner2.png");
+    background-repeat:no-repeat;
+}
